@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee889595-5071-48d8-b8cb-4f94c2f3c84c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vs/repos/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.vs/repos/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C++Labs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/.vs/C170PA/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/.vs/C170PA/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/.vs/ProjectSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/C170PA.dbmdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/C170PA.jfm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/C170PA.sqlproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/C170PA.sqlproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/bin/Debug/C170PA.dacpac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/bin/Debug/C170PA.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/bin/Debug/C170PA.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/bin/Debug/C170PA.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/bin/Debug/C170PA_Create.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/obj/Debug/C170PA.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/obj/Debug/C170PA.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/obj/Debug/C170PA.sqlproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C170PA/C170PA/obj/Debug/C170PA.sqlproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/project-colors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/ipch/AutoPCH/14ffa2de2ecc2b1f/MAIN.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/ipch/AutoPCH/2e765e441c2e7b4f/STUDENT.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/ipch/AutoPCH/9c1a1d698db93d83/DEGREE.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/ipch/AutoPCH/a47a2e9fe2282806/MAIN.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/ipch/AutoPCH/ac13c86f5f81ff9/ROSTER.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/ipch/AutoPCH/c5d22b863dc3f334/ROSTER.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/ipch/AutoPCH/c7257cfb422af32/STUDENT.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/C867PA/v17/ipch/AutoPCH/e0e4525b479d39b4/STUDENT.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/ProjectSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/C867PA.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/C867PA.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/C867PA.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/degree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/roster.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/roster.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/student.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/student.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.tlog/C867PA.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/C867PA.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/main.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/roster.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/roster.obj.enc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/student.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/student.obj.enc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/vc143.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/C867PA/x64/Debug/vc143.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/ConsoleRun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/x64/Debug/C867PA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C867PA/x64/Debug/C867PA.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CryptoTrader/.vs/CryptoTrader/project-colors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CryptoTrader/.vs/CryptoTrader/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CryptoTrader/CryptoTrader.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CryptoTrader/CryptoTrader/CryptoTrader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CryptoTrader/CryptoTrader/CryptoTrader.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Freyacoin/FreyaCoin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Freyacoin/New Rich Text Document.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jaeger790/hello_world_test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jaeger790/python_projects" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/.vs/Project1/project-colors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/.vs/Project1/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/.vs/Project1/v17/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/.vs/Project1/v17/ipch/AutoPCH/79021b744e2bdf98/~VSDABE.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/.vs/Project1/v17/ipch/AutoPCH/8db2104f488de208/SOURCE2.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/.vs/Project1/v17/ipch/AutoPCH/aeff4bb4bd377f52/SOURCE.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/.vs/Project1/v17/ipch/AutoPCH/ee414fe026dac563/SUMOFSQUARES.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/Output-Build.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/Project1.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/Project1.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/Project1.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/sumOfSquares.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.tlog/Project1.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Project1.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/Source.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/vc143.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/Project1/x64/Debug/vc143.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/x64/Debug/Project1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Project1/x64/Debug/Project1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonLabs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StockScraper/.vs/StockScraper/project-colors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StockScraper/.vs/StockScraper/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StockScraper/StockScraper.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StockScraper/StockScraper/StockScraper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StockScraper/StockScraper/StockScraper.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../htmlProjects" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FmNIX2geBrHBng358KrG1HEbsf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Download Shared Index": "Shared indexes available",
+    "Notification.DoNotAsk-Download Shared Index": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "L:/Coding/repos/Public/Java/ByeWorldFX",
+    "settings.editor.selected.configurable": "editor.preferences.folding"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee889595-5071-48d8-b8cb-4f94c2f3c84c" name="Changes" comment="" />
+      <created>1665093255133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665093255133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
